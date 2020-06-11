@@ -1,6 +1,6 @@
 # Vue Boilerplates : vue-boilerplate-ts (In progress)
 
-> A vue.js project with Latest Vue + Lazy loading and code splitting
+> A vue.js project with Latest Vue + Typescript + Lazy loading and code splitting
 
 ## Why to choose Vue Boilerplates?
 > While mobile-first approach becomes a standard and uncertain network conditions are something we should always take into consideration, it’s harder and harder to keep your application loading fast. Hence **Vue Boilerplates** was built with vue.js performance optimization techniques that make them loading instantly and perform smooth :rocket:.  
