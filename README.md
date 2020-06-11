@@ -33,7 +33,7 @@ With dynamic imports, all pages including their dependency libraries are exporte
 
 ```bash
 # 1. Clone the repository.
-git clone https://github.com/Vue-Boilerplates/vue-boilerplate.git my-new-project
+git clone https://github.com/Vue-Boilerplates/vue-boilerplate-ts.git my-new-project
 
 # 2. Enter your newly-cloned folder.
 cd my-new-project
