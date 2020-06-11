@@ -1,4 +1,4 @@
-# Vue Boilerplates : vue-boilerplate-ts (In progress)
+# Vue Boilerplates : vue-boilerplate-ts
 
 > A vue.js project with Latest Vue + Typescript + Lazy loading and code splitting
 
