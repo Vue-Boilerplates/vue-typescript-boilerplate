@@ -27,7 +27,8 @@ The following features are delivered out of the box in this repo, you are just o
 
 ## Bonus
 **Lazy loading and Code Splitting**  
-With dynamic imports, all pages including their dependency libraries are exported as web chunks with custom name references for lazy loading:sunglasses:. Even Vue library was exported as a seperate web chunk:wink::heart_eyes:.
+With dynamic imports, all pages including their dependency libraries are exported as web chunks with custom name references for lazy loading :sunglasses:  
+Even Vue library was exported as a seperate web chunk :heart_eyes:
 
 ## Getting started
 
@@ -73,10 +74,10 @@ npm run build
  - Practical Examples
 
 ## Need your support to contribute more
-:star: [Donate](https://opencollective.com/vue-boilerplates)  
-:heart: [Become a backer](https://opencollective.com/vue-boilerplates)  
-:cupid: [Become a supporter](https://opencollective.com/vue-boilerplates)  
-:two_hearts: [Become a sponser](https://opencollective.com/vue-boilerplates)  
+ :star: - [Donate](https://opencollective.com/vue-boilerplates)  
+ :heart: - [Become a backer](https://opencollective.com/vue-boilerplates)  
+ :cupid: - [Become a supporter](https://opencollective.com/vue-boilerplates)  
+ :two_hearts: - [Become a sponser](https://opencollective.com/vue-boilerplates)  
 
 # License
 [MIT](LICENSE)
