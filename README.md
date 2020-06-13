@@ -1,4 +1,4 @@
-# Vue Boilerplates : vue-boilerplate-ts
+# Vue Boilerplates : vue-typescript-boilerplate
 
 > A vue.js project with Latest Vue + Typescript + Lazy loading and code splitting
 
@@ -34,7 +34,7 @@ Even Vue library was exported as a seperate web chunk :heart_eyes:
 
 ```bash
 # 1. Clone the repository.
-git clone https://github.com/Vue-Boilerplates/vue-boilerplate-ts.git my-new-project
+git clone https://github.com/Vue-Boilerplates/vue-typescript-boilerplate.git my-new-project
 
 # 2. Enter your newly-cloned folder.
 cd my-new-project
