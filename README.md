@@ -1,4 +1,6 @@
 # Vue Boilerplates : vue-typescript-boilerplate
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-boilerplate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-boilerplate?ref=badge_shield)
+
 
 > A vue.js project with Latest Vue + Typescript + Lazy loading and code splitting
 
