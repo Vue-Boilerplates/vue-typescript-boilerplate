@@ -7,7 +7,7 @@
     |
     <a
       target="_blank"
-      href="https://github.com/Vue-Boilerplates/vue-boilerplate-ts"
+      href="https://github.com/Vue-Boilerplates/vue-typescript-boilerplate"
       >v1.0.0</a
     >
   </div>

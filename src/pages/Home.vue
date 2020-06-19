@@ -2,7 +2,7 @@
   <div class="home">
     <Navbar />
     <h1>Vue Boilerplates</h1>
-    <h3>vue-boilerplate-ts</h3>
+    <h3>vue-typescript-boilerplate</h3>
     <img width="130px" height="auto" src="/img/vue-boilerplates.svg" />
     <h3>Vue + Typescript + Lazy loading and code splitting</h3>
     <div class="block">
