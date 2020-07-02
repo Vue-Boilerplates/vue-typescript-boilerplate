@@ -75,11 +75,13 @@ npm run build
  - Detailed Documentation
  - Practical Examples
 
-## Need your support to contribute more
- :star: - [Donate](https://opencollective.com/vue-boilerplates)  
- :heart: - [Become a backer](https://opencollective.com/vue-boilerplates)  
- :cupid: - [Become a supporter](https://opencollective.com/vue-boilerplates)  
- :two_hearts: - [Become a sponser](https://opencollective.com/vue-boilerplates)  
+# Support
+
+[Give me a Star⭐️](https://github.com/Vue-Boilerplates/vue-typescript-boilerplate)
+
+[Buy me a ☕️!](https://www.buymeacoffee.com/zxqp)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sureshbabusakthi)
 
 # License
 Released under the MIT [License](./LICENSE)  
